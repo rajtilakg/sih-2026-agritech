@@ -1,2 +1,2 @@
 # sih-2026-agritech
-dump and forget
+let all the code be dumped
